@@ -6,7 +6,7 @@
 
 <h1 align="justify">Hi 👋, I'm Raymond Normeshie</h1>
 <h3 align="justify">I am an enthusaistic young Data Scientist who is very passionate about becoming very proficient in Data Collection, Data Analytics, Data Visualization, Building Machine Learning Models for predictions, and Database Management</h3>
-<h3 align="justify">I fell in love with Data Science when I was studying Actuarial Science at the University, I have found that, working and analyzing Data is just like solving a puzzle and coming up with an insightful and groud-breaking solutions to problems. This I see to be an invaluable skill to have.</h3>
+<h3 align="justify">I fell in love with Data Science when I was studying Actuarial Science at the University, I have found that, working and analyzing Data is just like solving a puzzle and coming up with an insightful and ground-breaking solutions to problems. This I see to be an invaluable skill to have.</h3>
 
 <br>
 
