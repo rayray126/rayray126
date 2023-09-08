@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="justify">Hi 👋, I'm Raymond Normeshie</h1>
-<h3 align="justify">I am an enthusaistic young Data Scientist who is very passionate about becoming very proficient in Data Collection, Data Analytics, Data Visualization, Building Machine Learning Models for predictions, and Database Management</h3>
+<h3 align="justify">I am an experienced Data Analyst who is very passionate about becoming very proficient in Data Collection, Data Analytics, Data Visualization, Building Machine Learning Models for predictions, and Database Management</h3>
 <h3 align="justify">I fell in love with Data Science when I was studying Actuarial Science at the University, I have found that, working and analyzing Data is just like solving a puzzle and coming up with an insightful and ground-breaking solutions to problems. This I see to be an invaluable skill to have.</h3>
 
 <br>
@@ -15,13 +15,13 @@
 
 - 🔭 I’m currently working on [WorldQuant Applied Data Science Projects](https://wqu-ds.tditrain.com/user/rnormeshie261/tree)
 
-- 🌱 I’m currently learning **Google Data Analytics on Coursera and Financial Engineering at WorldQuant University**
+- 🌱 I’m currently learning **IBM Data Science Professional Certificate**
 
 - 👯 I love Finance, I’m totally open to collaborate on **applying Data Science to Finance**
 
 - 👨‍💻 All of my projects are available at [rayray126](https://github.com/rayray126)
 
-- 💬 I am willing to help with **Machine Learning, Data Science, Python, SQL, R, Data Analytics, Tableau, Power BI, Excel**
+- 💬 I am willing to help with **Machine Learning, Data Science, Python, SQL, Data Analytics, Tableau, Power BI, Excel**
 
 - 📫 You can reach me on **raynormeshie126@gmail.com**
 
